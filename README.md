@@ -1,2 +1,3 @@
 # socialAnimation
-Animação de ícones feita com HTML e Css
+Animação de ícones feita com HTML e CSS
+
